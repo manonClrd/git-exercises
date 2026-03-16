@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Exercises — Le Git Gourmand
 
 Bienvenue dans ce dépôt d'exercices Git !
@@ -130,3 +131,7 @@ git cherry-pick <hash-du-fix-xss>
 | `ex5-cherrypick/main` | Cherry-pick | Branch cible |
 | `ex5-cherrypick/feature` | Cherry-pick | Source des commits |
 
+=======
+# Le Git Gourmand
+Site web du restaurant.
+>>>>>>> b61738e (init: README)
